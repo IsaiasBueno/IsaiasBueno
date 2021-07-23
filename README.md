@@ -3,7 +3,7 @@
 
 Meu nome é Isaias Bueno, Seja Bem Vindo!
 
-Sou Android/Kotlin Developer, confira meus Projetos nos meus repositórios.
+Sou Software Engineer, confira meus Projetos nos meus repositórios.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IsaiasBueno)](https://github.com/IsaiasBueno) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaias-bueno/)](https://www.linkedin.com/in/isaias-bueno/)
