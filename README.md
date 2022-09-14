@@ -1,4 +1,4 @@
-### Software Engineer at everis, an NTT DATA company
+### Software Engineer at NTT DATA
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IsaiasBueno)](https://github.com/IsaiasBueno) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaias-bueno/)](https://www.linkedin.com/in/isaias-bueno/)
